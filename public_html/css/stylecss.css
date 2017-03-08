@@ -1,0 +1,410 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 01.03.2017, 13:27:47
+    Author     : Денис
+*/
+
+
+body.page{
+    display:inline-block;
+    float: left; 
+    width: 900px;
+    clear: left;
+    
+}
+
+div.container{
+    clear: left;
+    float: left;
+    width: 900px;
+    height: 20000px;
+    margin: auto auto;
+}
+
+div.header{
+    display: inline-block;
+    width: 900px;
+    height: 300px;
+    background-color: rgba(0,0,0,0.01);
+    
+}
+
+i.fa-phone{
+    font-size: 20px;
+    margin-left: 250px;
+    color: gold;
+    cursor:default;
+}
+
+i.fa-phone:hover{
+    color: yellow;
+    cursor: pointer;
+}
+
+i.fa-envelope{
+    margin-top: 0.5px;
+    margin-left: 250px;
+    color: gold;
+    cursor: default;
+    font-size: 20px;
+}
+
+i.fa-envelope:hover{
+    color: yellow;
+    cursor: pointer;
+}
+
+.h2{
+    margin-top: -30px;
+    font-weight: normal;
+    color: black;
+    margin-left: 290px;
+}
+
+.h2_style{
+    font-weight: normal;
+    color: black;
+    margin-top: -30px;
+    margin-left: 290px;
+    
+}
+
+h2.h2_blok{
+    color: black; font-weight: normal;
+    margin-left: 600px; margin-top: -30px;
+    
+}
+
+div.blok{
+    margin-top: -80px;
+}
+
+div.div_blok{
+   margin-top: -80px; 
+}
+
+i.fa-map-marker{
+    font-size: 30px;
+    color: gold;
+    cursor: default;
+    margin-left: 570px;
+   
+}
+
+i.fa-map-marker:hover{
+    cursor: pointer;
+    color: yellow;
+}
+
+img.img_one{
+    font-family: sans-serif;
+    text-align-last: center;
+    line-height: 2.0;
+    color: #fff;
+    width: 190px;
+    height: 35px;
+    border: 0px solid gray;
+    background: rgba(0,0,0,0.65);
+    margin-top: 25px;
+    cursor: pointer;
+}
+
+img.img_two{
+    font-family: sans-serif;
+    text-align-last: center;
+    line-height: 2.0;
+    color: #fff;
+    width: 190px;
+    height: 35px;
+    border: 0px solid gray;
+    background-color: rgba(0,0,0,0.4);
+    margin-top: 25px;
+    cursor: pointer;
+    margin-left: 5pt;
+}
+
+
+div#p_1{
+    margin-left: 405px;
+    margin-top: -60px;
+    width: 350px;
+    height: 50px;
+    border: 0px solid #ffdc33;
+    background-color: #ffdc33;
+    background-repeat: no-repeat;
+    background-image: url(../img/2.PNG);
+    background-position-x: 15px;
+    background-position-y: 2px;
+    cursor: pointer;
+}
+    
+div.text_p{
+    font-size: 11pt;
+    margin-left: 80px;
+    font-family: sans-serif;
+    line-height: 1.2;
+    font-weight: normal;
+    color: black;
+}
+
+#p_0{
+    
+    padding-top: 5px;
+    
+}
+
+#p_2{
+    margin-top: -40px;
+    padding-top: 10px;
+}
+
+div.navigation{
+   width: 900px;
+   height: 20px;
+   background-color: white;
+}
+
+div.menu{
+    background-color: white;
+    float: left;
+    width: 50px;
+    height: 50px;
+    margin-top: -120px;
+    clear: left;   
+}
+
+ i.fa-bars{
+      cursor:default;
+      font-size: 20pt;
+      
+  }
+
+  
+  h2.menu_my{
+    font-size: 13pt;
+    font-weight: bold;
+    margin-top: -24px;
+    margin-left: 50px;
+    font-family: Arial;
+}
+
+div.content{
+    float: left;
+    width:900px;
+    height: 5000px;
+    background-color:white;
+    background-image: url("../img/3.PNG");
+    background-repeat: no-repeat;
+    margin-top: -70px;
+    clear: left;
+}
+
+div.content_head{
+   float: left;
+   margin-left: 50px;
+   padding-left: 5px;
+   clear: left;
+}
+
+
+h1.h1_text{
+    font-size: 30pt;
+    font-weight: normal;
+    margin-top: 480px;
+    font-family: Times news Roman;
+    color: rgba(0,0,0,0.8);
+}
+
+h1#p_4{
+    font-weight: normal;
+    font-size: 30pt;
+    font-family: Times news Roman;
+    margin-left: 300px;
+    margin-top: -30px;
+    color: rgba(0,0,0,0.8);
+}
+
+div.content_center{
+    float: left;
+    clear: left;
+}
+
+
+img.cont_centr{
+    margin-top: -18px;
+    padding-top: 24px;
+    margin-left: -55px;
+    float: left;
+    clear: left;
+    width: 750px;
+}
+
+div.cont_centr-1{
+    float: left;
+    margin-top: 70px;
+    padding-top: 5px;
+}
+
+div.cont_centr-2{
+    float: left;
+    clear: left;
+    line-height: 0.3;
+}
+
+h2.h2_text{
+    font-family: sans-serif;
+    font-size: 30pt;
+    font-weight: normal;
+    color: rgba(0,0,0,0.8);
+}
+
+h2#p_5{
+    font-family: sans-serif;
+    font-size: 30pt;
+    font-weight: normal;
+    color: rgba(0,0,0,0.8);
+}
+
+div.hr_style{
+    float: left;
+    clear: left;
+}
+
+div.hr_style-1{
+    float: left;
+    margin-left: -670px;
+    margin-top: 150px;
+}
+
+hr.hr-1{
+    width: 80px;
+    height: 3px; 
+    border: 1px solid yellow;
+    background-color: yellow;
+}
+
+hr.hr{
+    width: 80px;
+    height: 3px;
+    margin-left: 10px;
+    padding-left: 5px;
+    border: 1px solid yellow;
+    background-color: yellow;
+    
+}
+
+
+
+div.col{
+    float: left;
+    clear: left;
+    margin-top: 50px;
+}
+
+div.h3_text{
+   font-family: sans-serif;
+   color: rgba(0,0,0,0.8);
+   font-weight: normal;
+   width: 900px;
+   line-break: normal;
+   line-height: 0.5;
+}
+
+div.h4_text{
+    margin-top: 30px;
+}
+
+div.h5_text{
+   line-height: 0.5;
+   font-family: sans-serif;
+   color: rgba(0,0,0,0.8);
+   font-weight: normal;
+   width: 900px;
+   word-break: break-all;
+   
+}
+
+div.h6_text{
+   margin-top:30px; 
+   line-height: 0.5;
+   font-family: sans-serif;
+   color: rgba(0,0,0,0.8);
+   font-weight: normal;
+   width: 900px;
+   word-break: break-all;
+}
+
+div.h7_text{
+    margin-top: 30px; 
+}
+
+div.h8_text{
+    margin-left: 430px;
+    margin-top: -252px;
+}
+
+div.h9_text{
+   float: left;
+   clear: left;
+   margin-top: 30px;
+   line-height: 0.3;
+   font-family: sans-serif;
+   color: rgba(0,0,0,0.8);
+   font-weight: normal;
+   font-size: 25pt;
+}
+
+
+div.p_9{
+    margin-left: 20px;
+    padding-left: 200px;
+}
+
+div.h10_text{
+    width: 900px;
+    margin-top: 20px;
+    float: left;
+    clear: left;
+}
+
+div.h11_text{
+    font-weight: normal;
+    font-family: sans-serif;
+    color: rgba(0,0,0,0.8);
+    word-wrap:break-word;
+    word-break: break-all;
+}
+
+p#p_6{
+   line-height: 1.2;
+   font-family: sans-serif;
+   color: rgba(0,0,0,0.8);
+   font-weight: normal;
+}
+
+p#p_7{
+   font-family: sans-serif;
+   color: rgba(0,0,0,0.8);
+   font-weight: bold;
+}
+
+p#p_8{
+    line-height: 1.2;
+    font-family: sans-serif;
+    font-weight: normal;
+    color: rgba(0,0,0,0.8);
+    margin-left: 185px;
+    margin-top: -28px;
+}
+
+
+div.clear{
+    clear: left;
+}
+
+
+
